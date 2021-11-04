@@ -6,15 +6,11 @@ This is my journey of making a tribune to the late Dr. Borlaug. I want to make a
 
 ---
 
-## These are the tools I will be using
+## Here are some features
 
-1. HTML
-   This is the code behind the webpage
-2. CSS
-   This will be the code to make the web page pretty
-3. JS
-   This code will be the building block to make the page inactive
+1. Citations
+2. Automatic slides
 
 ---
 
-![Dr. Norman Borlaug](https://www.nobelprize.org/uploads/2018/06/borlaug2_fredscenter_photo.jpg "Markdown Tutorial")
+![Dr. Norman Borlaug](https://www.nobelprize.org/uploads/2018/06/borlaug2_fredscenter_photo.jpg "Picture of Dr. Borlaug")

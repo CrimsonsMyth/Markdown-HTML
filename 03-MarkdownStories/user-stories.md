@@ -6,7 +6,7 @@ This is my journey of making a tribune to the late Dr. Borlaug. I want to make a
 
 ---
 
-## Here are some features
+## Here are some features that the website will have
 
 1. Citations
 2. Automatic slides

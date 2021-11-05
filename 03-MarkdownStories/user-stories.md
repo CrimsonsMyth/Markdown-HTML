@@ -10,6 +10,7 @@ This is my journey of making a tribune to the late Dr. Borlaug. I want to make a
 
 1. Citations
 2. Automatic slides
+3. Fount changes
 
 ---
 

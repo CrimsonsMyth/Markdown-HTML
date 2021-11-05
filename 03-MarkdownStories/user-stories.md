@@ -15,3 +15,5 @@ This is my journey of making a tribune to the late Dr. Borlaug. I want to make a
 ---
 
 ![Dr. Norman Borlaug](https://www.nobelprize.org/uploads/2018/06/borlaug2_fredscenter_photo.jpg "Picture of Dr. Borlaug")
+
+![Alttext](borlaug2_fredscenter_photo.jpg)
